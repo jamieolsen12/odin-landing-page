@@ -3,6 +3,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+img {
+    width: 200px;
+}
+
 
 .header {
     background-color: #1f2937;
@@ -30,7 +34,14 @@ a {
 .intro {
     background-color: #1f2937;
     padding: 150px 250px 0 250px;
+    display: flex;
 }
+
+.intro > img {
+    width: 400px;
+    margin-left: 50px;
+}
+
 .intro-text {
     display: flex;
     flex-direction: column;
@@ -40,6 +51,20 @@ a {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
+}
+
+.intro-subtext {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+button {
+    width: 120px;
+    color: white;
+    padding: 8px 24px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 700;
 }
 
 .review {
