@@ -11,6 +11,20 @@
     background-color: #1f2937;
 }
 
+.intro-title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.cta {
+    background-color: #3882f6;
+}
+
+button {
+    background-color: #3882f6;
+}
+
 
 .footer {
     background-color: #1f2937;
