@@ -119,12 +119,14 @@ button {
 
 .cta-box {
     background-color: #3882f6;
-    margin: 100px 250px;
+    margin: 100px 225px;
     display: flex;
-    padding: 50px 100px;
+    padding: 50px 125px;
     justify-content: space-between;
     border-radius: 10px;
 }
+
+
 
 .cta-text {
     display: flex;
@@ -136,18 +138,20 @@ button {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 700;
-    margin-bottom: 0;
+    margin-bottom: 8px;
 }
 
 .cta-subtext {
     color: #E5E7EB;
-    font-size: 18px;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .cta-btn-box {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
 }
 
 .cta-box button {
