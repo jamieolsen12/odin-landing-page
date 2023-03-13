@@ -29,6 +29,11 @@ a {
 
 .intro {
     background-color: #1f2937;
+    padding: 150px 250px 0 250px;
+}
+.intro-text {
+    display: flex;
+    flex-direction: column;
 }
 
 .intro-title {
