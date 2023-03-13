@@ -81,6 +81,16 @@ button {
     text-align: center;
 }
 
+.info-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.info-images-item {
+    width: 150px;
+}
+
 .review {
     background-color: #E5E7Eb;
 }
