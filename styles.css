@@ -8,6 +8,8 @@ body {
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
+    padding: 18px 250px 0 250px;
+
 }
 
 .header-logo {
@@ -17,8 +19,13 @@ body {
 
 .header-links {
     font-size: 18px;
-    color: #E5E7Eb;
+    color: #E5E7EB;
 }
+
+a {
+    padding-right: 16px;
+}
+
 
 .intro {
     background-color: #1f2937;
