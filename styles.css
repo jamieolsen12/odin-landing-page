@@ -97,11 +97,20 @@ button {
 }
 .review {
     background-color: #E5E7Eb;
+    padding: 100px 350px;
 }
 
 .review-quote {
     font-size: 36px;
-    font-style: light italic;
+    font-style: italic;
+    font-weight: 200;
+    color: #1f2937;
+}
+
+.quote-author {
+    font-weight: 900;
+    text-align: right;
+    font-size: 22px;
     color: #1f2937;
 }
 
