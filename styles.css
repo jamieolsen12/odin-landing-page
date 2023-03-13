@@ -1,10 +1,23 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
 .header {
     background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
 }
 
 .header-logo {
     font-size: 24px;
     color: #F9FAF8;
+}
+
+.header-links {
+    font-size: 18px;
+    color: #E5E7Eb;
 }
 
 .intro {
