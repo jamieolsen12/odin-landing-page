@@ -17,6 +17,16 @@
     color: #F9FAF8;
 }
 
+.review {
+    background-color: #E5E7Eb;
+}
+
+.review-quote {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+}
+
 .cta {
     background-color: #3882f6;
 }
