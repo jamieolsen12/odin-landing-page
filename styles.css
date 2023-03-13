@@ -33,7 +33,7 @@ a {
 
 .intro {
     background-color: #1f2937;
-    padding: 150px 250px 0 250px;
+    padding: 150px 250px;
     display: flex;
 }
 
@@ -45,6 +45,7 @@ a {
 .intro-text {
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
 }
 
 .intro-title {
